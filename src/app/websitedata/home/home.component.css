@@ -1,0 +1,22 @@
+.location{
+    text-decoration: none;
+    color: black;
+}
+.location:hover{
+    color: #ffb03b;
+}
+.image11{
+    float: left;
+    padding: 5px;
+    width: 14%;
+}
+.carousel-control-prev-icon11 ,.carousel-control-next-icon11{
+    background-color: gray;
+    border-radius: 20px;
+}
+
+
+.heading11{
+    color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
